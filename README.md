@@ -6,8 +6,7 @@ Use this template to rapidly build and monetise a [Meta Llama 3.1](https://huggi
 * Python 3.8
 * Ngrok for Tunneling (For Local Laptop Development Environment)
 * Hugging Face API token
-* MessengerX.io API Token - Follow the instructions below to get your token
-
+  
   * It should look something like this:
 ![bot_setup](https://github.com/user-attachments/assets/39b3e863-d9ff-44a7-bd20-8646708a571c)
 * Click on `Save`. It will redirect you to your dashboard.
@@ -133,4 +132,3 @@ Visit: ```https://messengerx.io/<your-character-name>```
 
 ## Notes / Additional Resources ##
 * Please note that this document isn't meant to be used as a guide for production environment setup.
-* Reach out to us on [Twitter](https://twitter.com/messengerxio) for any queries
