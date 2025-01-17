@@ -8,13 +8,8 @@ Use this template to rapidly build and monetise a [Meta Llama 3.1](https://huggi
 * Hugging Face API token
 * MessengerX.io API Token - Follow the instructions below to get your token
 
-## Get MessengerX.io API Key ##
-* Available on the [MessengerX.io](https://portal.messengerx.io/index#!/dashboard) portal
-* If you aren't registered, please create an account and login
-* Set up your new bot by providing it a `Character Name` and `Description`. 
-  * Select `Custom Bot` option
   * It should look something like this:
-  * ![figure](https://github.com/machaao/machaao-py/raw/master/images/bot_setup.png?raw=true)
+![bot_setup](https://github.com/user-attachments/assets/39b3e863-d9ff-44a7-bd20-8646708a571c)
 * Click on `Save`. It will redirect you to your dashboard.
 * On your dashboard you can see your newly created bot
   * ![figure](https://github.com/machaao/machaao-py/raw/master/images/new_bot.png?raw=true)
